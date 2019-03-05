@@ -1,4 +1,3 @@
 # GCS_test002
 
-from user_b
-
+from user_master & user_b
