@@ -1,4 +1,3 @@
 # GCS_test002
 
-from master & testing
-
+from user_master
